@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="group28.thermostat.addActivity">
+    <item android:id="@+id/action_settings"
+        android:title="Help"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_about"
+        android:title="About us"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_server"
+        android:title="Change server"
+        android:showAsAction="never" />
+</menu>

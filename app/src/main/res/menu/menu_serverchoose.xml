@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="group28.thermostat.DayActivity">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/server_main"
+            android:title="http://wwwis.win.tue.nl/"
+            android:orderInCategory="1"
+            android:showAsAction="never" />
+        <item android:id="@+id/server_backup"
+            android:title="http://pcwin889.win.tue.nl/"
+            android:orderInCategory="2"
+            android:showAsAction="never" />
+    </group>
+</menu>

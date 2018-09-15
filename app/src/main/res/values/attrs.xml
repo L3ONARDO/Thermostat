@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="OverViewBar">
+        <attr name="barColor" format="color"></attr>
+        <attr name="dayColor" format="color"></attr>
+        <attr name="nightColor" format="color"></attr>
+        <attr name="textColor" format="color"></attr>
+        <attr name="showLabels" format="boolean"></attr>
+        <attr name="specialBar" format="boolean"></attr>
+        <attr name="noBar" format="boolean"></attr>
+    </declare-styleable>
+</resources>
